@@ -1,0 +1,11 @@
+{
+    "userLoginComSucesso": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    
+    "userLoginSemSucesso": {
+        "username": "Test",
+        "password": "Test"
+    }
+}
